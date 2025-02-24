@@ -2,6 +2,11 @@
 
 This is motivated by a longitudinal study focusing on C-SCD patients. 
 
+Mondal, Pritish (2023), “Impact of BMI on IOS measures”, Mendeley Data, V1, doi: 10.17632/rwcvfz9np9.1. https://data.mendeley.com/datasets/rwcvfz9np9/1
+
+We explored some scientific questions based on this study.
+
+The abstract of our study:
 Backgrounds: 
 Obesity is a significant risk factor for asthma, with higher body mass index (BMI) linked to impaired respiratory function. However, the confounding factor
 of comorbidities, such as Sickle Cell Disease (SCD), is often overlooked. 
